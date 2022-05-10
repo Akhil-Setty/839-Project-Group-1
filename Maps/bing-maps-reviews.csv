@@ -1,0 +1,5 @@
+marketplace,customer_id,review_id,product_id,product_parent,product_title,product_category,star_rating,helpful_votes,total_votes,vine,verified_purchase,review_headline,review_body,review_date
+US,11077201,R1VMSOUYPRVOUI,B00TBHRH7M,24885574,Bing Maps,Mobile_Apps,4,0,0,0,1,Nice App,"Though it's not an official app, but does everything that bing maps actually can do.",2015-03-01
+US,49330767,R1OS1S1E7ZWPM6,B00TBHRH7M,24885574,Bing Maps,Mobile_Apps,1,1,1,0,1,It's Not Bing Maps!,Don't touch it!  It's not Bing Maps because it's not made by Microsoft Corporation.,2015-02-21
+US,30512350,R3CR0PUDL3ZM2G,B00TBHRH7M,24885574,Bing Maps,Mobile_Apps,1,1,1,0,1,Fundamentally broken.,Not a single working feature.,2015-02-19
+US,11758438,R16EFSH84VYCNG,B00TBHRH7M,24885574,Bing Maps,Mobile_Apps,5,0,1,0,1,Awesome map!,"I was surprised at first to see this app was free. Liking Bing as I do, I thought I'd give this a try.  It does everything I would expect from a map.<br /><br />I tapped on my state, then zoomed right in to my address.  This is pretty recent, as there is a roundabout shown that has been just recent completed.<br /><br />I would recommend this to anyone.",2015-02-15
